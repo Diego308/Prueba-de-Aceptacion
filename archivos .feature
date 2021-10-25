@@ -4,3 +4,4 @@
 <Explicar como los especialistas pueden formar parte de este negocio>
 <Brindar informacion sobre la aplicacion>
 <Explicar como funciona la aplicacion>
+<Dirigir al usuario a la aplicacion>
